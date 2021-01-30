@@ -35,3 +35,43 @@ Finish!
 real	0m2,388s
 user	0m2,382s
 sys	0m0,001s
+
+
+Utilizando la imagen de Singularity:
+Tiempo para longitud 13:
+Con Python:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m55,979s
+user	0m55,762s
+sys	0m0,131s
+
+Con C++:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,757s
+user	0m0,632s
+sys	0m0,082s
+
+Tiempo para longitud 14:
+Con Python:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	3m50,699s
+user	3m50,343s
+sys	0m0,128s
+
+Con C++:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,534s
+user	0m2,411s
+sys	0m0,084s
